@@ -1,0 +1,74 @@
+{
+  "homeProduct": [
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669736893_hi-tea-vai_82726e3ec8b445d8a76e2960b9a16f67_large.png",
+      "name": "Hi-Tea Vải",
+      "price": "49.000 đ"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669736835_ca-phe-sua-da_966117a7eb0e42d398937f44cc63aca9_large.png",
+      "name": "Cà Phê Sữa Đá",
+      "price": "29.000 đ"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1638440015_banh-mi-vietnam_75185017016d4a9da8ac60fb1c68a072_large.jpg",
+      "name": "Bánh Mì VN Thịt Nguội",
+      "price": "35.000 đ"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1655348107_mochi-choco_695c36c13b7f4de3bda537b7db417a91_large.jpg",
+      "name": "Mochi Kem Chocolate",
+      "price": "19.000 đ"
+    }
+  ],
+  "product": [
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "cafe"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "cafe"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "cafe"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "cafe"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669706771_bg-tradao-min_677262fe4b654e45b02a62ed72c648a3_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "tra"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "tra"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpgg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "tra"
+    },
+    {
+      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpg",
+      "name": "Thùng Cà Phê Sữa Espresso",
+      "price": "336.000 đ",
+      "category": "tra"
+    }
+  ]
+}

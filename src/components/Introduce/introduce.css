@@ -1,0 +1,21 @@
+.introduce {
+  margin-top: 100px;
+}
+.introduce-right {
+  padding: 50px 20px 50px 20px;
+  color: rgba(0, 0, 0, 0.85);
+}
+.btn-introduce {
+  width: 40%;
+  padding: 10px 30px 10px 30px;
+  background-color: #b3ddca;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 500;
+  color: white;
+}
+.btn-introduce:hover {
+  cursor: pointer;
+  background-color: #8cbea8;
+  transition: all 300ms;
+}
