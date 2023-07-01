@@ -20,23 +20,21 @@ const HeaderComponent = () => {
           </div>
           <div className="col-9 content-right">
             <div className="content">
-              <div className="item-content">
-                <span
-                  onClick={() => {
-                    handleClick("cafe");
-                  }}
-                >
-                  Cà phê
-                </span>
+              <div
+                className="item-content"
+                onClick={() => {
+                  handleClick("cafe");
+                }}
+              >
+                <span>Cà phê</span>
               </div>
-              <div className="item-content">
-                <span
-                  onClick={() => {
-                    handleClick("tra");
-                  }}
-                >
-                  Trà
-                </span>
+              <div
+                className="item-content"
+                onClick={() => {
+                  handleClick("tra");
+                }}
+              >
+                <span>Trà</span>
               </div>
               <div className="item-content">
                 <span>Menu</span>

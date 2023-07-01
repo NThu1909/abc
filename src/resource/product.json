@@ -23,51 +23,18 @@
   ],
   "product": [
     {
-      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "cafe"
+      "image": "https://product.hstatic.net/1000075078/product/1684482557_bg-product-1_46d6fdc571c44a64bf6350278163b8f9.jpg",
+      "name": "Cà Phê Đen Đá Hộp (14 gói x 16g)",
+      "price": "58.000 đ",
+      "category": "cafe",
+      "keyName": "cafe-den-da-hop",
+      "description": "Cà Phê Đen Đá hoà tan The Coffee House với 100% hạt cà phê Robusta mang đến hương vị mạnh cực bốc, đậm đắng đầy lôi cuốn, đúng gu người Việt."
     },
+
     {
-      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "cafe"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "cafe"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669707271_24lon-espresso-no_2953e8be1316400a87db103fc3495270_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "cafe"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669706771_bg-tradao-min_677262fe4b654e45b02a62ed72c648a3_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "tra"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "tra"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpgg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
-      "category": "tra"
-    },
-    {
-      "image": "https://product.hstatic.net/1000075078/product/1669880647_bg-trasua-min_9e7820a06dce4811b1249b547ce2b230_large.jpg",
-      "name": "Thùng Cà Phê Sữa Espresso",
-      "price": "336.000 đ",
+      "image": "https://product.hstatic.net/1000075078/product/1639647075_tra-lai-tui-loc-tearoma-20x2gr_757365b742e041be8ecbbe6e45b3f1b2.jpg",
+      "name": "Trà Lài Túi Lọc Tearoma 20x2G",
+      "price": "28.000 đ",
       "category": "tra"
     }
   ]
